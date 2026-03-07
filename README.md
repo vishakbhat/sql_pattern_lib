@@ -3,12 +3,10 @@ SQL pattern library - reference repo
 
 This repository holds sample SQL patterns that constitute data retreival, analysis, manipulation and presentation. The patterns range from basic SQL patterns and structures to (hopefully quite) advanced.
 
-# License
----------
+## License
 This repository is licensed under GNU GENERAL PUBLIC LICENSE. You can use this repository or individual files in the repository, in commercial or personal projects with no obligations to me for support or liabilities because of your usage. If you found anything in here as useful, please consider attributing me for the "inspiration".
 
-# Index of folders
-----------------
+## Index of folders
 /Docs/ - Documentation files, mostly normal text
 /weekly_log/ - Weekly log of what I have done in SQL and my overall learning progress.
 /sql_patterns/ - SQL pattern files
